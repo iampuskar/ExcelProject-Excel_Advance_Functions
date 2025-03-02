@@ -1,4 +1,4 @@
-# Excel Functions Learning Module
+# Excel Advance Functions
 
 This README details various tasks we perform using Excel, specifically tailored for data analysis related to employee management and salary processing. The document outlines how to use specific Excel functions to answer business questions effectively.
 Below is a sample of the dataset that was analyzed:
