@@ -76,5 +76,3 @@ Each section above is designed to provide you with the necessary skills to tackl
 This module is crafted to enhance practical Excel skills through detailed examples and comprehensive explanations of function usage in various business analytics tasks. The exercises are designed to encourage self-directed practice and in-depth understanding of each function's potential.
 
 ---
-
-This README is created to be used in a Markdown environment like GitHub, where it can serve as an informative guide for users looking to improve their Excel skills specifically in business data analysis. If further customization is needed or additional tasks need to be documented, adjustments can be made to fit more specific requirements.
